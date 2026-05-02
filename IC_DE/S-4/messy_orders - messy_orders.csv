@@ -1,0 +1,8 @@
+order_id,customer,product,amount,order_date
+101,Elif Yılmaz,Laptop,85000,2024-01-15
+102,Mehmet Kaya,Phone,55000,2024-01-16
+103,,Tablet,32000,Jan 17
+104,Elif Yılmaz,Laptop,,2024-01-15
+105,Burak Demir,,12000,2024-01-18
+102,Mehmet Kaya,Phone,55000,2024-01-16
+106,Zeynep Çelik,Mouse,2500,2024/01/19

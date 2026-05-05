@@ -1,0 +1,206 @@
+invoice_id,customer_name,invoice_date,due_date,amount_bdt,paid_amount_bdt,status,payment_date,category,city
+INV-1072,Ayesha Textiles,2026-01-01,2026-03-02,75000,0,Unpaid,,Cosmetics,Sylhet
+INV-1025,Ayesha Textiles,2026-04-07,2026-05-07,75000,,Unpaid,,Cosmetics,Sylhet
+INV-1052,Hasan Electronics,2026-02-08,2026-04-09,20000,,Unpaid,,Food,Rajshahi
+INV-1163,Fatima Enterprises,2026-02-20,2026-04-06,75000,26100,Partial,2026-04-28,Food,Chittagong
+INV-1098,Bilkis Garments,2026-01-15,2026-03-01,100000,100000,Paid,2026-02-16,Pharma,Chittagong
+INV-1041,Bilkis Garments,2025-12-04,2026-01-03,100000,100000,Paid,2026-01-07,Hardware,Chittagong
+INV-1125,Hasan Electronics,2026-02-08,2026-04-09,50000,50000,Paid,2026-04-07,Food,Rajshahi
+INV-1085,Tahmina Logistics,2026-02-26,2026-03-28,45000,21200,Partial,2026-04-10,Electronics,Dhaka
+INV-1143,Karim & Sons,2026-01-13,2026-02-12,75000,0,Unpaid,,Textiles,Dhaka
+INV-1132,Sultana Pharma,2025-12-10,2026-02-08,50000,,Unpaid,,Hardware,Sylhet
+INV-1134,Omar Food Products,2026-03-26,2026-04-25,30000,13400,Partial,2026-05-16,Auto Parts,Rajshahi
+INV-1168,Bilkis Garments,2026-01-18,2026-03-19,15000,15000,Paid,2026-03-15,IT Services,Chittagong
+INV-1151,Jamal Construction,2026-03-13,2026-04-12,50000,,Unpaid,,Hardware,Chittagong
+INV-1159,Omar Food Products,2026-02-19,2026-04-05,75000,75000,Paid,2026-03-27,Food,Rajshahi
+INV-1117,Hasan Electronics,2025-12-22,2026-02-05,50000,50000,Paid,2026-02-09,Food,Rajshahi
+INV-1157,Hasan Electronics,2026-01-20,2026-03-06,45000,45000,Paid,2026-02-23,Auto Parts,Rajshahi
+INV-1096,Bilkis Garments,2026-02-25,2026-04-11,100000,100000,Paid,2026-04-05,Construction,Chittagong
+INV-1099,Fatima Enterprises,2026-02-03,2026-04-04,75000,0,Unpaid,,Hardware,Chittagong
+INV-1054,Rahim Trading Ltd,2026-04-21,2026-06-05,15000,,Unpaid,,Cosmetics,Dhaka
+INV-1196,Reshma Cosmetics,2025-12-26,2026-02-09,45000,0,Unpaid,,IT Services,Sylhet
+INV-1010,Reshma Cosmetics,2026-02-21,2026-03-23,45000,45000,Paid,2026-03-08,IT Services,Sylhet
+INV-1047,Shakil Hardware,2026-04-03,2026-05-03,50000,0,Unpaid,,Textiles,Chittagong
+INV-1183,Fatima Enterprises,2026-02-26,2026-04-27,80000,,Unpaid,,IT Services,Chittagong
+INV-1050,Bilkis Garments,2025-12-07,2026-01-06,80000,,Unpaid,,Textiles,Chittagong
+INV-1051,Shakil Hardware,2026-03-18,2026-05-02,10000,0,Unpaid,,Construction,Chittagong
+INV-1067,Rafiq Auto Parts,2025-12-05,2026-02-03,100000,0,Unpaid,,Pharma,Dhaka
+INV-1111,Nusrat Imports,2025-12-26,2026-02-09,25000,25000,Paid,2026-02-11,Pharma,Dhaka
+INV-1178,Jamal Construction,2025-12-26,2026-02-09,80000,0,Unpaid,,Logistics,Chittagong
+INV-1045,Omar Food Products,2025-11-28,2026-01-27,30000,,Unpaid,,IT Services,Rajshahi
+INV-1066,Fatima Enterprises,2026-01-13,2026-03-14,20000,20000,Paid,2026-03-06,Electronics,Chittagong
+INV-1044,Fatima Enterprises,2025-11-27,2025-12-27,75000,0,Unpaid,,Auto Parts,Chittagong
+INV-1037,Sultana Pharma,2025-12-02,2026-01-01,5000,0,Unpaid,,Electronics,Sylhet
+INV-1081,Reshma Cosmetics,2025-12-02,2026-01-16,15000,0,Unpaid,,Food,Sylhet
+INV-1064,Nusrat Imports,2026-04-14,2026-05-14,25000,25000,Paid,2026-05-11,Electronics,Dhaka
+INV-1093,Hasan Electronics,2026-01-04,2026-02-18,10000,5700,Partial,2026-02-19,IT Services,Rajshahi
+INV-1015,Shakil Hardware,2026-01-31,2026-03-02,80000,51400,Partial,2026-03-22,Cosmetics,Chittagong
+INV-1090,Shakil Hardware,2026-03-20,2026-05-19,60000,60000,Paid,2026-05-12,Hardware,Chittagong
+INV-1077,Jamal Construction,2026-03-03,2026-05-02,100000,40000,Partial,2026-05-06,Electronics,Chittagong
+INV-1173,Hasan Electronics,2025-12-05,2026-01-04,50000,28700,Partial,2026-01-12,Hardware,Rajshahi
+INV-1082,Farhan IT Solutions,2026-02-17,2026-04-18,25000,0,Unpaid,,Pharma,Dhaka
+INV-1083,Hasan Electronics,2025-12-30,2026-01-29,100000,100000,Paid,2026-01-26,IT Services,Rajshahi
+INV-1135,Reshma Cosmetics,2025-12-02,2026-01-01,50000,50000,Paid,2025-12-29,IT Services,Sylhet
+INV-1146,Sultana Pharma,2025-12-05,2026-01-19,30000,30000,Paid,2026-01-07,Auto Parts,Sylhet
+INV-1017,Jamal Construction,2026-01-09,2026-02-23,20000,,Unpaid,,Cosmetics,Chittagong
+INV-1055,Rafiq Auto Parts,2026-01-02,2026-03-03,5000,5000,Paid,2026-03-04,Logistics,Chittagong
+INV-1086,Ayesha Textiles,2026-01-04,2026-02-18,75000,,Unpaid,,Hardware,Sylhet
+INV-1107,Rafiq Auto Parts,2026-04-19,2026-06-18,20000,20000,Paid,2026-06-10,Cosmetics,Dhaka
+INV-1073,Omar Food Products,2026-02-26,2026-04-27,50000,0,Unpaid,,Construction,Rajshahi
+INV-1162,Omar Food Products,2026-01-03,2026-03-04,25000,8800,Partial,2026-03-16,Cosmetics,Rajshahi
+INV-1005,Bilkis Garments,2026-02-09,2026-03-11,15000,0,Unpaid,,Construction,Chittagong
+INV-1104,Reshma Cosmetics,2026-02-18,2026-03-20,25000,,Unpaid,,Cosmetics,Sylhet
+INV-1091,Bilkis Garments,2026-04-15,2026-05-15,80000,50700,Partial,2026-05-20,Electronics,Chittagong
+INV-1009,Ayesha Textiles,2026-04-04,2026-05-04,80000,80000,Paid,2026-04-30,Textiles,Sylhet
+INV-1200,Nusrat Imports,2026-01-03,2026-03-04,5000,0,Unpaid,,IT Services,Dhaka
+INV-1150,Reshma Cosmetics,2026-03-27,2026-05-11,10000,0,Unpaid,,Construction,Sylhet
+INV-1007,Hasan Electronics,2026-04-10,2026-06-09,50000,0,Unpaid,,Auto Parts,Rajshahi
+INV-1154,Rahim Trading Ltd,2026-04-04,2026-05-04,80000,,Unpaid,,Pharma,Dhaka
+INV-1148,Reshma Cosmetics,2026-01-06,2026-02-05,30000,0,Unpaid,,Auto Parts,dhaka
+INV-1127,Reshma Cosmetics,2026-03-16,2026-04-15,5000,5000,Paid,2026-04-11,Hardware,Sylhet
+INV-1142,Rafiq Auto Parts,2026-02-11,2026-03-28,50000,,Unpaid,,Logistics,Dhaka
+INV-1103,Bilkis Garments,2025-12-05,2026-01-19,50000,28300,Partial,2026-01-27,IT Services,Chittagong
+INV-1167,Omar Food Products,2026-03-28,2026-05-27,80000,80000,Paid,2026-05-18,Electronics,Rajshahi
+INV-1031,Ayesha Textiles,2026-04-04,2026-05-04,30000,30000,Paid,2026-05-02,Food,Sylhet
+INV-1175,Shakil Hardware,2025-11-29,2026-01-13,75000,75000,Paid,2026-01-16,Cosmetics,Chittagong
+INV-1176,Shakil Hardware,2026-02-03,2026-04-04,45000,45000,Paid,2026-04-08,Electronics,Chittagong
+INV-1058,Nusrat Imports,2025-11-29,2026-01-13,75000,0,Unpaid,,Pharma,Dhaka
+INV-1120,Rafiq Auto Parts,2026-01-05,2026-03-06,75000,,Unpaid,,Logistics,Dhaka
+INV-1190,Sultana Pharma,2025-12-14,2026-01-13,75000,75000,Paid,2026-01-02,Food,Sylhet
+INV-1187,Omar Food Products,2026-04-15,2026-05-15,5000,3000,Partial,2026-06-02,IT Services,Rajshahi
+INV-1116,Hasan Electronics,2026-03-20,2026-05-19,50000,50000,Paid,2026-05-24,Hardware,Rajshahi
+INV-1119,Karim & Sons,2026-03-14,2026-05-13,25000,25000,Paid,2026-05-11,Textiles,Dhaka
+INV-1068,Nusrat Imports,2026-01-01,2026-01-31,80000,0,Unpaid,,Textiles,Dhaka
+INV-1016,Karim & Sons,2026-02-13,2026-03-15,"50,000",0,Unpaid,,Hardware,Dhaka
+INV-1087,Jamal Construction,2025-12-20,2026-01-19,30000,30000,Paid,2026-01-12,Auto Parts,Chittagong
+INV-1180,Jamal Construction,2026-02-09,2026-03-11,100000,42200,Partial,2026-04-10,Pharma,Chittagong
+INV-1133,Jamal Construction,2025-12-17,2026-01-16,50000,50000,Paid,2026-01-11,IT Services,Chittagong
+INV-1034,Nusrat Imports,2026-01-03,2026-02-17,50000,,Unpaid,,Textiles,Dhaka
+INV-1071,Bilkis Garments,2025-11-27,2026-01-11,45000,,Unpaid,,Food,Chittagong
+INV-1191,Sultana Pharma,2026-04-14,2026-05-14,50000,0,Unpaid,,Textiles,Sylhet
+INV-1075,Reshma Cosmetics,2026-02-20,2026-04-21,25000,25000,Paid,2026-04-20,Construction,Sylhet
+INV-1188,Rahim Trading Ltd,2026-03-08,2026-04-22,5000,5000,Paid,2026-04-14,Logistics,Dhaka
+INV-1184,Ayesha Textiles,2026-03-20,2026-05-19,20000,20000,Paid,2026-05-07,Pharma,Sylhet
+INV-1121,Jamal Construction,2025-12-27,15/03/2026,25000,0,Unpaid,,Food,Chittagong
+INV-1113,Ayesha Textiles,2025-12-19,2026-02-02,100000,0,Unpaid,,Hardware,Sylhet
+INV-1003,Rahim Trading Ltd,2026-04-14,2026-05-14,20000,20000,Paid,2026-04-30,Electronics,Dhaka
+INV-1062,Reshma Cosmetics,2026-02-22,2026-03-24,5000,0,Unpaid,,Food,Sylhet
+INV-1158,Bilkis Garments,2026-03-06,2026-04-05,15000,15000,Paid,2026-03-29,Hardware,Chittagong
+INV-1019,Bilkis Garments,2026-04-05,2026-05-20,45000,0,Unpaid,,Food,Chittagong
+INV-1039,Karim & Sons,2026-01-14,2026-02-13,45000,45000,Paid,2026-02-04,Food,Dhaka
+INV-1137,Rahim Trading Ltd,2026-03-04,2026-05-03,30000,0,Unpaid,,Cosmetics,Dhaka
+INV-1172,Reshma Cosmetics,2026-01-10,2026-03-11,30000,30000,Paid,2026-03-04,Electronics,Sylhet
+INV-1027,Karim & Sons,2026-02-13,2026-04-14,75000,22900,Partial,2026-05-01,Pharma,dhaka
+INV-1136,Fatima Enterprises,2026-01-08,2026-03-09,5000,0,Unpaid,,Auto Parts,Chittagong
+INV-1011,Karim & Sons,2026-01-17,2026-03-03,20000,0,Unpaid,,Textiles,Dhaka
+INV-1026,Reshma Cosmetics,2026-04-04,2026-06-03,15000,15000,Paid,2026-05-24,Logistics,Sylhet
+INV-1112,Nusrat Imports,2026-03-22,2026-05-21,60000,0,Unpaid,,Pharma,Dhaka
+INV-1014,Reshma Cosmetics,2026-04-13,2026-05-28,45000,45000,Paid,2026-05-27,Hardware,Sylhet
+INV-1179,Jamal Construction,2026-03-13,2026-04-27,80000,80000,Paid,2026-04-17,Hardware,Chittagong
+INV-1160,Sultana Pharma,2026-02-15,2026-04-16,5000,0,Unpaid,,Food,Sylhet
+INV-1145,Tahmina Logistics,2026-02-04,2026-04-05,75000,0,Unpaid,,Construction,Dhaka
+INV-1059,Reshma Cosmetics,2026-03-11,2026-04-10,45000,45000,Paid,2026-04-05,Auto Parts,Sylhet
+INV-1139,Shakil Hardware,2025-12-18,2026-01-17,5000,0,Unpaid,,Pharma,Chittagong
+INV-1065,Fatima Enterprises,2025-12-31,2026-02-14,100000,0,Unpaid,,Logistics,Chittagong
+INV-1144,Hasan Electronics,2026-01-05,2026-02-19,60000,60000,Paid,2026-02-24,Food,Rajshahi
+INV-1122,Bilkis Garments,2026-04-06,2026-06-05,100000,100000,Paid,2026-06-04,Pharma,Chittagong
+INV-1053,Rafiq Auto Parts,2025-12-17,2026-01-31,5000,5000,Paid,2026-01-23,Food,Dhaka
+INV-1174,Jamal Construction,2026-01-16,2026-02-15,80000,80000,Paid,2026-02-20,Hardware,Chittagong
+INV-1035,Rahim Trading Ltd,2026-01-08,2026-03-09,30000,,Unpaid,,Pharma,Dhaka
+INV-1079,Rahim Trading Ltd,2025-11-30,2025-12-30,10000,6000,Partial,2026-01-20,Logistics,Dhaka
+INV-1049,Shakil Hardware,2026-02-18,2026-04-04,25000,25000,Paid,2026-03-23,Food,Chittagong
+INV-1057,Hasan Electronics,2026-01-18,2026-02-17,30000,30000,Paid,2026-02-15,Textiles,Rajshahi
+INV-1195,Reshma Cosmetics,2025-12-01,2026-01-30,20000,12900,Partial,2026-02-12,IT Services,Sylhet
+INV-1185,Bilkis Garments,2026-02-25,2026-03-27,30000,0,Unpaid,,Hardware,Chittagong
+INV-1118,Reshma Cosmetics,2025-12-20,2026-01-19,10000,2400,Partial,2026-02-08,Electronics,Sylhet
+INV-1070,Rafiq Auto Parts,2026-03-20,2026-04-19,45000,0,Unpaid,,Construction,Dhaka
+INV-1140,Tahmina Logistics,2026-03-12,2026-04-26,60000,60000,Paid,2026-04-18,Textiles,Dhaka
+INV-1129,Hasan Electronics,2025-12-14,2026-02-12,50000,25000,Partial,2026-03-12,Auto Parts,Rajshahi
+INV-1138,Farhan IT Solutions,2026-04-08,2026-05-08,25000,0,Unpaid,,Cosmetics,Dhaka
+INV-1029,Sultana Pharma,2026-03-22,2026-04-21,20000,20000,Paid,2026-04-26,Hardware,Sylhet
+INV-1008,Fatima Enterprises,2025-12-01,2026-01-15,80000,0,Unpaid,,Hardware,Chittagong
+INV-1004,Rafiq Auto Parts,2026-03-02,2026-05-01,80000,0,Unpaid,,Cosmetics,Dhaka
+INV-1033,Sultana Pharma,2026-02-18,2026-04-04,45000,45000,Paid,2026-04-06,Auto Parts,Sylhet
+INV-1038,Fatima Enterprises,2026-02-20,2026-03-22,45000,13800,Partial,2026-04-03,Electronics,Chittagong
+INV-1128,Tahmina Logistics,2025-11-27,2026-01-11,50000,50000,Paid,2026-01-07,Auto Parts,Dhaka
+INV-1043,Reshma Cosmetics,2026-03-05,2026-04-04,"75,000",75000,Paid,2026-04-02,Auto Parts,Sylhet
+INV-1024,Shakil Hardware,2026-04-21,2026-06-20,30000,7700,Partial,2026-07-01,Food,Chittagong
+INV-1102,Tahmina Logistics,2026-03-13,2026-04-27,15000,0,Unpaid,,Food,Dhaka
+INV-1092,Hasan Electronics,2026-01-14,2026-02-28,20000,7400,Partial,2026-03-28,Auto Parts,Rajshahi
+INV-1149,Jamal Construction,2026-03-14,2026-04-28,5000,5000,Paid,2026-04-15,IT Services,Chittagong
+INV-1088,Rafiq Auto Parts,2025-12-03,2026-02-01,20000,6700,Partial,2026-02-16,Electronics,Dhaka
+INV-1193,Karim & Sons,2026-02-10,2026-04-11,80000,0,Unpaid,,Auto Parts,Dhaka
+INV-1101,Rahim Trading Ltd,2026-01-04,2026-02-18,10000,3800,Partial,2026-03-18,Cosmetics,Dhaka
+INV-1153,Jamal Construction,2026-01-30,2026-03-31,100000,0,Unpaid,,Logistics,Chittagong
+INV-1095,Reshma Cosmetics,2026-04-16,2026-06-15,15000,15000,Paid,2026-06-05,Textiles,Sylhet
+INV-1166,Bilkis Garments,2026-02-16,2026-04-17,100000,0,Unpaid,,Construction,Chittagong
+INV-1032,Omar Food Products,2025-12-18,2026-01-17,60000,60000,Paid,2026-01-04,Hardware,Rajshahi
+INV-1094,Ayesha Textiles,2026-04-04,2026-06-03,5000,0,Unpaid,,Pharma,Sylhet
+INV-1046,Ayesha Textiles,2026-02-13,2026-03-30,15000,,Unpaid,,IT Services,Sylhet
+INV-1109,Fatima Enterprises,2026-02-05,2026-03-07,45000,0,Unpaid,,Hardware,Chittagong
+INV-1106,Nusrat Imports,2026-02-14,2026-03-31,25000,0,Unpaid,,Food,Dhaka
+INV-1030,Rafiq Auto Parts,2026-02-22,2026-04-23,20000,20000,Paid,2026-04-08,Electronics,Dhaka
+INV-1110,Nusrat Imports,2025-12-21,2026-02-19,60000,60000,Paid,2026-02-07,IT Services,Dhaka
+INV-1123,Hasan Electronics,2026-04-01,2026-05-01,20000,20000,Paid,2026-05-04,Construction,Rajshahi
+INV-1182,Rahim Trading Ltd,2026-01-10,2026-02-24,20000,0,Unpaid,,Cosmetics,Dhaka
+INV-1105,Bilkis Garments,2026-01-14,2026-02-28,5000,1800,Partial,2026-03-15,Pharma,Chittagong
+INV-1061,Reshma Cosmetics,2025-12-22,2026-01-21,20000,0,Unpaid,,Food,Sylhet
+INV-1147,Sultana Pharma,2026-01-29,2026-02-28,100000,100000,Paid,2026-02-21,Pharma,Sylhet
+INV-1084,Nusrat Imports,2025-12-04,2026-01-03,15000,15000,Paid,2025-12-27,Construction,Dhaka
+INV-1031,Ayesha Textiles,2026-04-04,2026-05-04,30000,30000,Paid,2026-05-02,Food,Sylhet
+INV-1126,Farhan IT Solutions,2026-03-02,2026-04-16,10000,0,Unpaid,,Food,Dhaka
+INV-1156,,2026-03-10,2026-05-09,25000,,Unpaid,,Electronics,Sylhet
+INV-1171,Tahmina Logistics,2026-01-25,2026-02-24,50000,,Unpaid,,Pharma,Dhaka
+INV-1197,Omar Food Products,2026-02-15,2026-04-01,15000,0,Unpaid,,Textiles,Rajshahi
+INV-1001,Omar Food Products,2026-03-24,2026-04-23,100000,100000,Paid,2026-04-21,Construction,Rajshahi
+INV-1164,Rahim Trading Ltd,2026-01-10,2026-02-24,5000,0,Unpaid,,Electronics,Dhaka
+INV-1165,Shakil Hardware,2025-12-15,2026-01-29,20000,0,Unpaid,,Pharma,Chittagong
+INV-1089,Jamal Construction,"Jan 15, 2026",2026-03-26,80000,0,Unpaid,,Cosmetics,Chittagong
+INV-1078,,2026-03-25,2026-05-09,20000,20000,Paid,2026-04-28,Cosmetics,Chittagong
+INV-1013,Hasan Electronics,2025-11-30,2025-12-30,80000,80000,Paid,2026-01-03,Pharma,Rajshahi
+INV-1124,rahim trading ltd,2026-01-07,2026-02-21,100000,,Unpaid,,Pharma,Dhaka
+INV-1042,Sultana Pharma,2025-12-14,2026-02-12,15000,15000,Paid,2026-02-01,Textiles,Sylhet
+INV-1114,Hasan Electronics,2026-03-27,2026-04-26,25000,25000,Paid,2026-04-26,Food,Rajshahi
+INV-1096,Bilkis Garments,2026-02-25,2026-04-11,100000,100000,Paid,2026-04-05,Construction,Chittagong
+INV-1012,Bilkis Garments,2026-03-09,2026-05-08,100000,100000,Paid,2026-04-29,Auto Parts,Chittagong
+INV-1115,Rahim Trading Ltd,2025-12-06,2026-01-05,25000,25000,Paid,2026-01-09,Logistics,Dhaka
+INV-1076,Rahim Trading Ltd,2026-04-10,2026-05-10,50000,0,Unpaid,,Cosmetics,Dhaka
+INV-1002,Tahmina Logistics,2026-03-26,2026-05-25,100000,,Unpaid,,Auto Parts,Dhaka
+INV-1097,Bilkis Garments,2026-03-23,2026-04-22,25000,25000,Paid,2026-04-27,Food,Chittagong
+INV-1189,Fatima Enterprises,2026-04-05,2026-05-20,50000,0,Unpaid,,Textiles,Chittagong
+INV-1006,Ayesha Textiles,2026-01-25,2026-02-24,10000,3800,Partial,2026-03-07,Hardware,Sylhet
+INV-1155,Tahmina Logistics,2026-03-29,2026-05-13,10000,0,Unpaid,,Textiles,Dhaka
+INV-1023,Bilkis Garments,2026-03-02,2026-04-01,30000,0,Unpaid,,Logistics,Chittagong
+INV-1020,Rafiq Auto Parts,2026-04-19,2026-06-18,100000,100000,Paid,2026-06-06,Food,Dhaka
+INV-1100,Farhan IT Solutions,2026-04-11,2026-05-26,60000,23100,Partial,2026-06-11,IT Services,Dhaka
+INV-1170,Rafiq Auto Parts,2025-12-14,2026-01-28,15000,15000,Paid,2026-01-18,Food,Dhaka
+INV-1022,Rafiq Auto Parts,2026-03-07,2026-05-06,10000,,Unpaid,,Logistics,Dhaka
+INV-1161,Omar Food Products,2025-12-03,2026-01-02,10000,3700,Partial,2026-01-20,Food,Rajshahi
+INV-1074,Omar Food Products,2026-03-31,2026-05-15,60000,0,Unpaid,,Textiles,Rajshahi
+INV-1018,Fatima Enterprises,2026-04-09,2026-05-09,15000,0,Unpaid,,Auto Parts,Chittagong
+INV-1199,Rafiq Auto Parts,2026-04-06,2026-06-05,60000,0,Unpaid,,Auto Parts,Dhaka
+INV-1063,Reshma Cosmetics,2026-04-04,2026-05-19,30000,0,Unpaid,,Logistics,Sylhet
+INV-1028,Tahmina Logistics,2026-02-01,2026-03-18,80000,0,Unpaid,,Logistics,Dhaka
+INV-1048,Fatima Enterprises,2025-12-05,2026-01-04,60000,60000,Paid,2025-12-29,Textiles,Chittagong
+INV-1080,Rafiq Auto Parts,2026-01-30,2026-03-16,75000,0,Unpaid,,Auto Parts,Dhaka
+INV-1040,Jamal Construction,2025-11-30,2026-01-29,100000,29500,Partial,2026-02-04,Electronics,Chittagong
+INV-1192,Sultana Pharma,2025-12-29,2026-01-28,10000,10000,Paid,2026-01-29,Textiles,Sylhet
+INV-1021,Farhan IT Solutions,2026-01-24,2026-02-23,25000,10700,Partial,2026-03-25,Food,Dhaka
+INV-1016,Karim & Sons,2026-02-13,2026-03-15,20000,0,Unpaid,,Hardware,Dhaka
+INV-1141,Ayesha Textiles,2026-03-23,2026-05-07,10000,,Unpaid,,Food,Sylhet
+INV-1131,Bilkis Garments,2026-04-16,2026-06-15,"1,00,000",0,Unpaid,,Construction,Chittagong
+INV-1108,Rafiq Auto Parts,2026-02-19,2026-04-20,50000,0,Unpaid,,Electronics,Dhaka
+INV-1060,Farhan IT Solutions,2026-02-17,2026-04-03,15000,,Unpaid,,Electronics,Dhaka
+INV-1177,Hasan Electronics,2025-12-16,2026-01-15,10000,10000,Paid,2026-01-03,Construction,Rajshahi
+INV-1194,Bilkis Garments,2025-12-07,2026-01-21,50000,0,Unpaid,,Textiles,Chittagong
+INV-1056,Rahim Trading Ltd,2026-01-17,2026-03-18,60000,60000,Paid,2026-03-19,Electronics,Dhaka
+INV-1159,Omar Food Products,2026-02-19,2026-04-05,75000,75000,Paid,2026-03-27,Food,Rajshahi
+INV-1152,Tahmina Logistics,2026-01-10,2026-03-11,10000,0,Unpaid,,Logistics,Dhaka
+INV-1129,Hasan Electronics,2025-12-14,2026-02-12,50000,25000,Partial,2026-03-12,Auto Parts,Rajshahi
+INV-1181,Reshma Cosmetics,2026-01-19,2026-02-18,80000,52100,Partial,2026-03-10,IT Services,Sylhet
+INV-1198,Reshma Cosmetics,2026-03-31,2026-04-30,45000,45000,Paid,2026-04-24,Construction,Sylhet
+INV-1069,Tahmina Logistics,2026-02-04,2026-04-05,25000,0,Unpaid,,Food,Dhaka
+INV-1169,rahim trading ltd,2026-01-05,2026-02-04,20000,20000,Paid,2026-01-23,IT Services,Dhaka
+INV-1186,Rahim Trading Ltd,2026-02-10,2026-03-12,15000,0,Unpaid,,Textiles,Dhaka
+INV-1036,Ayesha Textiles,2025-12-05,2026-01-19,15000,5100,Partial,2026-01-26,Textiles,Sylhet
+INV-1130,Tahmina Logistics,2026-01-29,2026-03-30,25000,25000,Paid,2026-03-28,Hardware,dhaka

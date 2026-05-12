@@ -1,0 +1,32 @@
+# Modern Data Engineering Course — PySpark Sessions
+# Python dependencies for Sessions 5, 6 (and forward into 7, 8)
+#
+# REQUIRES: Python 3.10 or newer, Java 11 installed and JAVA_HOME set
+# (See SETUP.md for the non-Python prerequisites.)
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# ────────────────────────────────────────────────────────────
+# Core Spark
+# ────────────────────────────────────────────────────────────
+pyspark==3.5.4
+
+# ────────────────────────────────────────────────────────────
+# Data libraries — used in notebooks alongside Spark
+# ────────────────────────────────────────────────────────────
+pandas==2.2.3            # for the Pandas-vs-Spark comparison demo
+numpy==1.26.4            # pandas dependency, also used in synthetic data gen
+pyarrow==17.0.0          # Parquet read/write engine for both pandas and Spark
+
+# ────────────────────────────────────────────────────────────
+# Notebook environment
+# ────────────────────────────────────────────────────────────
+jupyter==1.1.1
+notebook==7.3.2
+ipykernel==6.29.5
+
+# ────────────────────────────────────────────────────────────
+# Visualization (used in some notebook visuals)
+# ────────────────────────────────────────────────────────────
+matplotlib==3.9.2

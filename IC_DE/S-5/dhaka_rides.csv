@@ -1,0 +1,501 @@
+ride_id,rider,pickup,dropoff,fare_bdt,status,ride_date
+R0001,Rahim,FarmgateFarmgateFarmgateFarmgateFarmgateFarmgate,Gulshan,650.99,completed,2024-01-29
+R0002,Layla,Banani,Gulshan,146.94,completed,2024-01-05
+R0003,Tariq,Dhanmondi,Banani,259.15,cancelled,2024-01-04
+R0004,Layla,Old Dhaka,Mirpur,403.03,completed,2024-03-16
+R0005,Zainab,Uttara,Dhanmondi,617.57,completed,2024-02-05
+R0006,Imran,Banani,Uttara,158.7,completed,2024-01-13
+R0007,Aisha,Motijheel,Mohakhali,283.68,completed,2024-02-28
+R0008,Bilal,Old Dhaka,Gulshan,140.68,completed,2024-03-21
+R0009,Junaid,Tejgaon,Motijheel,228.06,completed,2024-01-06
+R0010,Mariam,Farmgate,Mirpur,838.62,completed,2024-01-13
+R0011,Omar,Mohakhali,Uttara,569.48,completed,2024-01-21
+R0012,Tariq,Motijheel,Mohakhali,596.03,completed,2024-03-18
+R0013,Layla,Farmgate,Banani,641.43,completed,2024-02-29
+R0014,Layla,Mohakhali,Uttara,249.1,completed,2024-01-08
+R0015,Imran,Mirpur,Dhanmondi,388.9,completed,2024-01-28
+R0016,Tariq,Tejgaon,Motijheel,584.69,completed,2024-03-23
+R0017,Yusuf,Bashundhara,Banani,187.52,cancelled,2024-03-09
+R0018,Sumaiya,Uttara,Farmgate,771.32,completed,2024-02-16
+R0019,Faisal,Mirpur,Banani,460.01,completed,2024-01-15
+R0020,Zainab,Banani,Wari,689.9,completed,2024-03-17
+R0021,Bilal,Gulshan,Bashundhara,538.83,completed,2024-03-08
+R0022,Rahim,Uttara,Tejgaon,603.82,completed,2024-03-28
+R0023,Imran,Old Dhaka,Uttara,165.9,completed,2024-01-21
+R0024,Yusuf,Bashundhara,Dhanmondi,828.35,completed,2024-03-05
+R0025,Mariam,Gulshan,Wari,728.09,cancelled,2024-03-18
+R0026,Nadia,Mirpur,Banani,667.13,cancelled,2024-03-08
+R0027,Imran,Dhanmondi,Farmgate,456.23,completed,2024-02-16
+R0028,Karim,Uttara,Mirpur,265.47,cancelled,2024-01-11
+R0029,Fatima,Gulshan,Old Dhaka,833.05,cancelled,2024-01-17
+R0030,Khadija,Banani,Wari,809.07,completed,2024-02-03
+R0031,Sumaiya,Old Dhaka,Farmgate,822.56,cancelled,2024-03-29
+R0032,Bilal,Mirpur,Motijheel,846.27,completed,2024-02-26
+R0033,Ayesha,Old Dhaka,Bashundhara,270.89,completed,2024-02-13
+R0034,Layla,Dhanmondi,Farmgate,257.19,completed,2024-01-01
+R0035,Karim,Gulshan,Wari,256.29,completed,2024-02-12
+R0036,Salma,Gulshan,Tejgaon,294.43,completed,2024-01-28
+R0037,Junaid,Old Dhaka,Banani,523.68,completed,2024-03-01
+R0038,Ayesha,Mohakhali,Mirpur,154.64,completed,2024-02-15
+R0039,Omar,Mohakhali,Bashundhara,745.15,completed,2024-03-27
+R0040,Ayesha,Farmgate,Wari,126.67,completed,2024-01-14
+R0041,Tariq,Mirpur,Uttara,492.94,completed,2024-02-24
+R0042,Omar,Banani,Motijheel,272.35,completed,2024-02-26
+R0043,Karim,Old Dhaka,Gulshan,582.15,cancelled,2024-01-02
+R0044,Zainab,Gulshan,Uttara,392.94,completed,2024-01-28
+R0045,Zainab,Mohakhali,Dhanmondi,371.81,completed,2024-02-03
+R0046,Sumaiya,Bashundhara,Uttara,616.38,cancelled,2024-03-25
+R0047,Hasan,Wari,Bashundhara,226.22,completed,2024-01-08
+R0048,Karim,Tejgaon,Old Dhaka,655.94,completed,2024-01-07
+R0049,Faisal,Tejgaon,Bashundhara,787.93,cancelled,2024-01-21
+R0050,Fatima,Dhanmondi,Tejgaon,735.53,completed,2024-03-17
+R0051,,Gulshan,Wari,390.91,cancelled,2024-02-01
+R0052,Karim,Tejgaon,Farmgate,556.92,completed,2024-03-25
+R0053,Faisal,Tejgaon,Farmgate,323.6,completed,2024-01-27
+R0054,Salma,Farmgate,Motijheel,284.52,completed,2024-03-26
+R0055,Omar,Farmgate,Uttara,323.46,completed,2024-01-02
+R0056,Junaid,Bashundhara,Farmgate,846.99,completed,2024-03-09
+R0057,Yusuf,Mirpur,Tejgaon,181.99,completed,2024-01-09
+R0058,Mariam,Mirpur,Mohakhali,201.47,cancelled,2024-03-31
+R0059,Faisal,Uttara,Farmgate,86.02,cancelled,2024-02-08
+R0060,Hasan,Farmgate,Gulshan,283.64,completed,2024-03-11
+R0061,Mariam,Banani,Motijheel,545.72,completed,2024-01-27
+R0062,Yusuf,Farmgate,Wari,469.16,completed,2024-01-07
+R0063,Sumaiya,Gulshan,Wari,718.6,completed,2024-01-01
+R0064,Yusuf,Motijheel,Banani,204.42,completed,2024-03-11
+R0065,Layla,Wari,Mohakhali,87.45,completed,2024-03-29
+R0066,Karim,Banani,Tejgaon,722.64,cancelled,2024-03-11
+R0067,Hasan,Banani,Bashundhara,112.21,completed,2024-01-06
+R0068,Salma,Motijheel,Mirpur,593.54,completed,2024-03-12
+R0069,Hasan,Mohakhali,Farmgate,792.84,completed,2024-01-21
+R0070,Rahim,Banani,Bashundhara,218.11,completed,2024-02-22
+R0071,Yusuf,Farmgate,Mirpur,202.58,completed,2024-02-18
+R0072,Salma,Dhanmondi,Old Dhaka,233.67,completed,2024-02-14
+R0073,Salma,Uttara,Mirpur,98.22,completed,2024-02-21
+R0074,Fatima,Motijheel,Uttara,824.5,completed,2024-02-14
+R0075,Bilal,Farmgate,Old Dhaka,603.23,cancelled,2024-02-12
+R0076,Yusuf,Dhanmondi,Banani,217.5,completed,2024-01-05
+R0077,Sumaiya,Gulshan,Farmgate,346.18,completed,2024-02-25
+R0078,Ayesha,Tejgaon,Old Dhaka,376.6,cancelled,2024-01-25
+R0079,Sumaiya,Uttara,Dhanmondi,81.3,cancelled,2024-03-28
+R0080,Tariq,Wari,Farmgate,360.45,completed,2024-03-26
+R0081,Imran,Motijheel,Farmgate,590.81,completed,2024-02-08
+R0082,Sumaiya,Old Dhaka,Uttara,331.16,completed,2024-03-11
+R0083,Sumaiya,Banani,Uttara,592.0,completed,2024-03-27
+R0084,Aisha,Wari,Banani,518.21,completed,2024-03-11
+R0085,Mariam,Dhanmondi,Motijheel,241.84,cancelled,2024-03-18
+R0086,Omar,Farmgate,Motijheel,420.18,completed,2024-03-06
+R0087,Fatima,Bashundhara,Banani,298.52,cancelled,2024-02-12
+R0088,Mariam,Gulshan,Uttara,252.97,completed,2024-01-19
+R0089,Salma,Dhanmondi,Gulshan,837.63,cancelled,2024-01-10
+R0090,Junaid,Bashundhara,Mohakhali,229.72,completed,2024-03-04
+R0091,Hasan,Mohakhali,Mirpur,585.16,completed,2024-01-14
+R0092,Zainab,Mohakhali,Mirpur,699.16,cancelled,2024-02-29
+R0093,Salma,Dhanmondi,Tejgaon,786.45,completed,2024-02-28
+R0094,Faisal,Banani,Old Dhaka,840.68,cancelled,2024-02-10
+R0095,Faisal,Bashundhara,Farmgate,408.59,cancelled,2024-02-27
+R0096,Omar,Banani,Old Dhaka,279.58,completed,2024-03-22
+R0097,Khadija,Uttara,Tejgaon,562.6,completed,2024-02-26
+R0098,Salma,Gulshan,Motijheel,289.22,completed,2024-03-10
+R0099,Hasan,Gulshan,Mirpur,258.07,completed,2024-03-31
+R0100,Sumaiya,Mirpur,Gulshan,393.85,cancelled,2024-02-29
+R0101,Tariq,Mohakhali,Dhanmondi,721.33,completed,2024-03-15
+R0102,Junaid,Wari,Dhanmondi,372.89,completed,2024-02-15
+R0103,Sumaiya,Uttara,Bashundhara,494.43,cancelled,2024-03-18
+R0104,Salma,Mirpur,Old Dhaka,290.16,completed,2024-01-04
+R0105,Bilal,Mohakhali,Motijheel,637.62,completed,2024-01-17
+R0106,Rahim,Tejgaon,Old Dhaka,778.34,cancelled,2024-03-13
+R0107,Fatima,Farmgate,Dhanmondi,574.92,completed,2024-02-29
+R0108,Yusuf,Banani,Dhanmondi,371.91,completed,2024-02-28
+R0109,Bilal,Motijheel,Mohakhali,294.26,completed,2024-02-02
+R0110,Rahim,Gulshan,Old Dhaka,656.75,completed,2024-02-14
+R0111,Fatima,Mirpur,Wari,681.55,completed,2024-01-04
+R0112,Rahim,Mirpur,Uttara,558.43,completed,2024-01-17
+R0113,Ayesha,Bashundhara,Wari,514.26,completed,2024-02-29
+R0114,Nadia,Wari,Uttara,209.2,cancelled,2024-01-15
+R0115,Ayesha,Banani,Motijheel,525.59,completed,2024-03-14
+R0116,Bilal,Farmgate,Mohakhali,804.93,completed,2024-01-10
+R0117,Salma,Tejgaon,Wari,158.46,completed,2024-03-28
+R0118,Junaid,Tejgaon,Gulshan,682.63,completed,2024-03-09
+R0119,Nadia,Mohakhali,Wari,133.1,completed,2024-01-02
+R0120,Ayesha,Mohakhali,Old Dhaka,413.81,completed,2024-03-22
+R0121,Sumaiya,Bashundhara,Banani,215.63,cancelled,2024-03-24
+R0122,Layla,Uttara,Farmgate,676.47,completed,2024-02-25
+R0123,Yusuf,Wari,Tejgaon,328.17,completed,2024-01-12
+R0124,Salma,Uttara,Old Dhaka,657.87,cancelled,2024-03-19
+R0125,Imran,Farmgate,Mohakhali,102.1,completed,2024-01-24
+R0126,Nadia,Bashundhara,Mirpur,694.33,completed,2024-02-05
+R0127,Layla,Tejgaon,Uttara,87.82,completed,2024-01-11
+R0128,Khadija,Mirpur,Bashundhara,507.49,completed,2024-03-29
+R0129,Khadija,Bashundhara,Wari,425.09,completed,2024-01-12
+R0130,Bilal,Uttara,Mirpur,612.68,completed,2024-03-25
+R0131,Khadija,Tejgaon,Motijheel,506.17,completed,2024-02-24
+R0132,Imran,Wari,Old Dhaka,350.89,completed,2024-02-04
+R0133,Salma,Uttara,Motijheel,172.91,completed,2024-02-10
+R0134,Zainab,Gulshan,Tejgaon,227.49,completed,2024-02-05
+R0135,Faisal,Wari,Tejgaon,539.53,completed,2024-01-25
+R0136,Nadia,Uttara,Mirpur,218.17,completed,2024-03-31
+R0137,Yusuf,Old Dhaka,Banani,115.05,completed,2024-03-11
+R0138,Khadija,Uttara,Banani,158.99,completed,2024-03-14
+R0139,Khadija,Uttara,Old Dhaka,419.16,completed,2024-01-07
+R0140,Ayesha,Uttara,Old Dhaka,713.03,completed,2024-03-03
+R0141,Karim,Gulshan,Farmgate,196.83,cancelled,2024-02-08
+R0142,Ayesha,Gulshan,Uttara,509.72,completed,2024-03-18
+R0143,Salma,Tejgaon,Farmgate,677.28,completed,2024-02-27
+R0144,Junaid,Bashundhara,Uttara,842.32,completed,2024-03-13
+R0145,Aisha,Tejgaon,Dhanmondi,819.28,completed,2024-01-27
+R0146,Yusuf,Farmgate,Mirpur,588.53,completed,2024-01-31
+R0147,Fatima,Banani,Tejgaon,200.53,completed,2024-02-27
+R0148,Khadija,Wari,Tejgaon,304.27,completed,2024-02-06
+R0149,Omar,Wari,Uttara,134.81,completed,2024-02-03
+R0150,Tariq,Farmgate,Tejgaon,407.36,cancelled,2024-01-29
+R0151,Yusuf,Farmgate,Banani,716.51,completed,2024-01-08
+R0152,Aisha,Banani,Motijheel,656.7,cancelled,2024-02-06
+R0153,Omar,Bashundhara,Gulshan,610.28,completed,2024-02-04
+R0154,Khadija,Old Dhaka,Tejgaon,417.07,cancelled,2024-01-06
+R0155,Aisha,Mohakhali,Motijheel,272.78,completed,2024-01-30
+R0156,Junaid,Farmgate,Tejgaon,812.11,completed,2024-03-14
+R0157,Khadija,Dhanmondi,Mirpur,479.6,completed,2024-02-05
+R0158,Sumaiya,Banani,Farmgate,568.78,completed,2024-01-12
+R0159,Sumaiya,Bashundhara,Motijheel,336.65,completed,2024-01-21
+R0160,Khadija,Motijheel,Bashundhara,301.93,completed,2024-03-11
+R0161,Fatima,Dhanmondi,Old Dhaka,322.18,completed,2024-01-15
+R0162,Rahim,Mohakhali,Tejgaon,586.4,cancelled,2024-02-29
+R0163,Tariq,Mohakhali,Dhanmondi,479.2,cancelled,2024-03-04
+R0164,Karim,Farmgate,Bashundhara,236.74,cancelled,2024-01-17
+R0165,Khadija,Uttara,Old Dhaka,173.5,cancelled,2024-01-31
+R0166,Mariam,Wari,Banani,504.15,cancelled,2024-02-22
+R0167,Ayesha,Gulshan,Uttara,435.31,completed,2024-03-23
+R0168,Mariam,Banani,Old Dhaka,471.83,completed,2024-02-23
+R0169,Salma,Bashundhara,Old Dhaka,431.73,completed,2024-02-19
+R0170,Faisal,Mirpur,Farmgate,654.65,completed,2024-01-09
+R0171,Imran,Uttara,Bashundhara,799.37,cancelled,2024-02-04
+R0172,Mariam,Dhanmondi,Motijheel,724.86,cancelled,2024-03-25
+R0173,Omar,Bashundhara,Banani,494.71,completed,2024-02-12
+R0174,Bilal,Old Dhaka,Tejgaon,430.62,completed,2024-01-25
+R0175,Junaid,Wari,Mirpur,374.89,completed,2024-01-06
+R0176,Bilal,Motijheel,Old Dhaka,377.28,completed,2024-03-04
+R0177,Faisal,Dhanmondi,Mirpur,823.32,completed,2024-01-13
+R0178,Faisal,Bashundhara,Gulshan,781.04,completed,2024-01-19
+R0179,Hasan,Mohakhali,Wari,137.62,completed,2024-02-13
+R0180,Fatima,Tejgaon,Mohakhali,735.86,cancelled,2024-02-18
+R0181,Khadija,Motijheel,Wari,751.73,completed,2024-03-20
+R0182,Mariam,Gulshan,Uttara,848.02,completed,2024-02-25
+R0183,Ayesha,Gulshan,Wari,421.63,completed,2024-01-04
+R0184,Karim,Dhanmondi,Mohakhali,305.89,completed,2024-02-25
+R0185,Faisal,Banani,Uttara,397.28,completed,2024-01-22
+R0186,Aisha,Banani,Gulshan,750.55,cancelled,2024-03-28
+R0187,Junaid,Mirpur,Old Dhaka,190.2,completed,2024-03-22
+R0188,,Uttara,Old Dhaka,593.47,completed,2024-02-06
+R0189,Zainab,Farmgate,Old Dhaka,136.87,completed,2024-03-16
+R0190,Sumaiya,Uttara,Wari,611.54,completed,2024-02-08
+R0191,Khadija,Mirpur,Bashundhara,162.12,completed,2024-03-14
+R0192,Mariam,Motijheel,Farmgate,844.37,completed,2024-01-03
+R0193,Yusuf,Farmgate,Mohakhali,86.24,completed,2024-03-18
+R0194,Mariam,Wari,Bashundhara,677.32,completed,2024-03-18
+R0195,Tariq,Motijheel,Mirpur,558.09,completed,2024-03-21
+R0196,Karim,Gulshan,Wari,317.88,completed,2024-01-05
+R0197,Hasan,Tejgaon,Motijheel,149.4,completed,2024-02-11
+R0198,Zainab,Wari,Mohakhali,234.61,cancelled,2024-02-16
+R0199,Yusuf,Old Dhaka,Tejgaon,719.46,completed,2024-03-02
+R0200,Ayesha,Uttara,Mohakhali,440.62,completed,2024-01-19
+R0201,Bilal,Mirpur,Wari,824.8,cancelled,2024-02-16
+R0202,Rahim,Gulshan,Bashundhara,283.63,completed,2024-02-28
+R0203,Yusuf,Motijheel,Wari,530.11,completed,2024-01-14
+R0204,Khadija,Farmgate,Mirpur,99.27,cancelled,2024-02-11
+R0205,Fatima,Tejgaon,Mirpur,569.26,completed,2024-03-30
+R0206,Sumaiya,Uttara,Wari,169.84,completed,2024-01-05
+R0207,Ayesha,Uttara,Old Dhaka,154.84,cancelled,2024-01-18
+R0208,Nadia,Mohakhali,Old Dhaka,596.27,cancelled,2024-02-23
+R0209,Sumaiya,Tejgaon,Banani,584.29,completed,2024-03-19
+R0210,Karim,Mohakhali,Uttara,611.52,completed,2024-02-26
+R0211,Nadia,Bashundhara,Mirpur,156.5,completed,2024-03-10
+R0212,Karim,Farmgate,Motijheel,386.57,completed,2024-01-16
+R0213,Tariq,Bashundhara,Gulshan,574.11,cancelled,2024-01-03
+R0214,Salma,Dhanmondi,Mohakhali,841.39,cancelled,2024-01-27
+R0215,Tariq,Gulshan,Tejgaon,531.51,completed,2024-02-12
+R0216,Rahim,Banani,Farmgate,293.5,completed,2024-01-17
+R0217,Zainab,Old Dhaka,Uttara,164.64,completed,2024-01-17
+R0218,Salma,Dhanmondi,Mohakhali,533.42,completed,2024-01-23
+R0219,Hasan,Uttara,Dhanmondi,651.12,cancelled,2024-01-15
+R0220,Khadija,Wari,Gulshan,425.17,completed,2024-03-06
+R0221,Omar,Tejgaon,Gulshan,467.96,cancelled,2024-01-06
+R0222,Faisal,Wari,Farmgate,312.26,completed,2024-01-08
+R0223,Sumaiya,Bashundhara,Mohakhali,608.3,completed,2024-02-26
+R0224,Imran,Gulshan,Banani,548.39,completed,2024-01-17
+R0225,Junaid,Uttara,Farmgate,502.23,completed,2024-02-18
+R0226,Mariam,Tejgaon,Old Dhaka,429.36,cancelled,2024-02-25
+R0227,Layla,Gulshan,Banani,635.05,completed,2024-02-25
+R0228,Sumaiya,Bashundhara,Mirpur,340.98,completed,2024-02-21
+R0229,Imran,Mohakhali,Gulshan,408.61,completed,2024-02-17
+R0230,Khadija,Banani,Wari,131.69,completed,2024-01-12
+R0231,Nadia,Mohakhali,Gulshan,705.06,cancelled,2024-01-08
+R0232,Layla,Tejgaon,Old Dhaka,333.83,completed,2024-02-22
+R0233,Sumaiya,Motijheel,Wari,748.43,completed,2024-02-06
+R0234,Nadia,Tejgaon,Uttara,159.77,cancelled,2024-01-28
+R0235,Khadija,Banani,Wari,252.67,completed,2024-02-14
+R0236,Ayesha,Old Dhaka,Motijheel,667.21,cancelled,2024-01-29
+R0237,Aisha,Mohakhali,Tejgaon,552.45,cancelled,2024-01-04
+R0238,Yusuf,Tejgaon,Wari,102.29,completed,2024-03-30
+R0239,Nadia,Uttara,Mohakhali,84.7,completed,2024-03-13
+R0240,Fatima,Farmgate,Mohakhali,189.24,completed,2024-01-12
+R0241,Tariq,Wari,Old Dhaka,369.67,completed,2024-02-13
+R0242,Mariam,Banani,Mohakhali,635.63,cancelled,2024-03-17
+R0243,Hasan,Gulshan,Dhanmondi,201.21,cancelled,2024-01-07
+R0244,Yusuf,Farmgate,Gulshan,421.2,completed,2024-03-03
+R0245,Sumaiya,Tejgaon,Bashundhara,290.34,cancelled,2024-01-15
+R0246,Ayesha,Motijheel,Bashundhara,298.1,cancelled,2024-03-03
+R0247,Mariam,Old Dhaka,Wari,114.97,completed,2024-03-17
+R0248,Tariq,Dhanmondi,Gulshan,312.09,completed,2024-01-18
+R0249,Imran,Uttara,Motijheel,172.39,completed,2024-02-25
+R0250,Bilal,Banani,Mirpur,490.09,completed,2024-03-05
+R0251,Nadia,Old Dhaka,Wari,135.5,completed,2024-02-25
+R0252,Fatima,Dhanmondi,Old Dhaka,743.82,cancelled,2024-02-24
+R0253,Sumaiya,Tejgaon,Mohakhali,302.93,completed,2024-01-03
+R0254,Aisha,Motijheel,Banani,434.27,completed,2024-01-12
+R0255,Salma,Mohakhali,Gulshan,415.47,completed,2024-03-08
+R0256,Mariam,Gulshan,Bashundhara,654.27,completed,2024-02-12
+R0257,Faisal,Banani,Gulshan,567.58,cancelled,2024-03-06
+R0258,Nadia,Mirpur,Mohakhali,640.08,completed,2024-01-31
+R0259,Yusuf,Gulshan,Mirpur,231.9,cancelled,2024-01-20
+R0260,Zainab,Farmgate,Gulshan,812.49,completed,2024-02-29
+R0261,Omar,Tejgaon,Farmgate,604.47,cancelled,2024-03-23
+R0262,Imran,Farmgate,Tejgaon,745.47,completed,2024-01-20
+R0263,Khadija,Bashundhara,Gulshan,420.5,completed,2024-02-05
+R0264,Nadia,Tejgaon,Dhanmondi,470.65,completed,2024-02-29
+R0265,Karim,Bashundhara,Dhanmondi,363.93,completed,2024-01-10
+R0266,Aisha,Farmgate,Gulshan,537.44,completed,2024-02-29
+R0267,Karim,Tejgaon,Old Dhaka,426.29,cancelled,2024-03-24
+R0268,Aisha,Mirpur,Mohakhali,446.23,completed,2024-01-08
+R0269,Imran,Bashundhara,Gulshan,836.44,completed,2024-03-05
+R0270,Karim,Farmgate,Banani,270.76,completed,2024-02-26
+R0271,Aisha,Old Dhaka,Tejgaon,202.23,completed,2024-02-06
+R0272,Imran,Mohakhali,Bashundhara,602.75,completed,2024-03-21
+R0273,Fatima,Farmgate,Motijheel,333.86,cancelled,2024-03-27
+R0274,Yusuf,Mohakhali,Uttara,637.27,cancelled,2024-01-20
+R0275,Junaid,Motijheel,Gulshan,590.98,completed,2024-02-09
+R0276,Bilal,Farmgate,Wari,179.29,completed,2024-02-09
+R0277,Imran,Old Dhaka,Mohakhali,706.15,cancelled,2024-01-12
+R0278,Sumaiya,Farmgate,Wari,471.54,completed,2024-02-16
+R0279,Tariq,Uttara,Banani,343.13,completed,2024-01-25
+R0280,Hasan,Mirpur,Banani,139.42,completed,2024-03-05
+R0281,Karim,Old Dhaka,Tejgaon,589.69,cancelled,2024-01-17
+R0282,Hasan,Tejgaon,Mohakhali,204.93,cancelled,2024-01-22
+R0283,Karim,Wari,Bashundhara,396.36,completed,2024-02-26
+R0284,Omar,Tejgaon,Uttara,260.18,completed,2024-02-09
+R0285,Nadia,Bashundhara,Mirpur,602.3,cancelled,2024-02-26
+R0286,Bilal,Bashundhara,Uttara,467.24,completed,2024-01-21
+R0287,Hasan,Mirpur,Farmgate,752.21,completed,2024-03-23
+R0288,Layla,Bashundhara,Motijheel,799.41,cancelled,2024-01-16
+R0289,Zainab,Uttara,Gulshan,290.05,cancelled,2024-01-19
+R0290,Salma,Mohakhali,Gulshan,708.86,completed,2024-01-04
+R0291,Bilal,Mohakhali,Dhanmondi,466.55,completed,2024-02-19
+R0292,Salma,Gulshan,Mohakhali,101.7,completed,2024-03-24
+R0293,Hasan,Motijheel,Banani,109.49,completed,2024-03-30
+R0294,Omar,Banani,Old Dhaka,553.82,completed,2024-01-03
+R0295,Hasan,Uttara,Mirpur,502.58,cancelled,2024-03-08
+R0296,Mariam,Mohakhali,Gulshan,262.98,completed,2024-01-07
+R0297,Aisha,Mirpur,Bashundhara,431.98,completed,2024-03-04
+R0298,Rahim,Tejgaon,Old Dhaka,566.61,cancelled,2024-01-31
+R0299,Mariam,Wari,Banani,410.51,cancelled,2024-02-15
+R0300,Sumaiya,Mirpur,Farmgate,224.23,completed,2024-03-08
+R0301,Faisal,Motijheel,Gulshan,498.94,cancelled,2024-03-11
+R0302,Khadija,Dhanmondi,Bashundhara,113.52,completed,2024-02-17
+R0303,Nadia,Uttara,Dhanmondi,687.16,completed,2024-01-31
+R0304,Ayesha,Wari,Farmgate,674.06,completed,2024-01-18
+R0305,Layla,Dhanmondi,Mohakhali,340.68,completed,2024-03-28
+R0306,Zainab,Bashundhara,Old Dhaka,704.85,completed,2024-02-28
+R0307,Tariq,Dhanmondi,Motijheel,113.73,completed,2024-01-06
+R0308,Faisal,Motijheel,Uttara,386.63,cancelled,2024-03-01
+R0309,Tariq,Uttara,Dhanmondi,300.31,completed,2024-03-24
+R0310,Ayesha,Motijheel,Uttara,695.49,completed,2024-02-21
+R0311,Bilal,Wari,Bashundhara,341.06,completed,2024-03-04
+R0312,Nadia,Wari,Bashundhara,791.72,cancelled,2024-02-04
+R0313,,Gulshan,Bashundhara,411.57,completed,2024-03-10
+R0314,Ayesha,Uttara,Mohakhali,141.65,completed,2024-02-09
+R0315,Sumaiya,Bashundhara,Farmgate,208.32,completed,2024-02-14
+R0316,Nadia,Bashundhara,Dhanmondi,553.44,completed,2024-02-05
+R0317,Fatima,Farmgate,Dhanmondi,596.81,completed,2024-02-16
+R0318,Zainab,Old Dhaka,Wari,813.65,completed,2024-03-18
+R0319,Karim,Farmgate,Bashundhara,177.2,completed,2024-03-23
+R0320,Bilal,Motijheel,Mohakhali,811.09,completed,2024-03-18
+R0321,Omar,Banani,Wari,810.59,completed,2024-02-26
+R0322,Hasan,Gulshan,Farmgate,487.68,completed,2024-02-10
+R0323,Salma,Farmgate,Uttara,819.6,completed,2024-01-24
+R0324,Bilal,Bashundhara,Tejgaon,783.43,completed,2024-02-03
+R0325,Tariq,Uttara,Old Dhaka,847.2,completed,2024-03-29
+R0326,Ayesha,Bashundhara,Mirpur,184.51,completed,2024-02-27
+R0327,Fatima,Banani,Old Dhaka,704.1,completed,2024-03-26
+R0328,Layla,Motijheel,Gulshan,497.47,completed,2024-01-21
+R0329,Zainab,Wari,Farmgate,691.15,cancelled,2024-01-29
+R0330,Hasan,Gulshan,Uttara,262.29,completed,2024-01-04
+R0331,Junaid,Motijheel,Tejgaon,364.06,cancelled,2024-01-17
+R0332,Fatima,Tejgaon,Gulshan,318.15,completed,2024-03-08
+R0333,Junaid,Mohakhali,Bashundhara,136.79,completed,2024-03-23
+R0334,Omar,Gulshan,Old Dhaka,603.68,completed,2024-01-17
+R0335,Junaid,Old Dhaka,Wari,220.11,completed,2024-02-25
+R0336,Ayesha,Old Dhaka,Dhanmondi,478.94,completed,2024-01-22
+R0337,Salma,Banani,Mohakhali,346.44,cancelled,2024-02-06
+R0338,Tariq,Gulshan,Motijheel,568.99,cancelled,2024-02-05
+R0339,Mariam,Banani,Wari,553.11,completed,2024-03-05
+R0340,Junaid,Farmgate,Banani,805.04,completed,2024-01-22
+R0341,Aisha,Farmgate,Tejgaon,339.97,cancelled,2024-01-06
+R0342,Karim,Dhanmondi,Banani,810.38,cancelled,2024-02-03
+R0343,Junaid,Farmgate,Mirpur,400.77,completed,2024-03-04
+R0344,Mariam,Farmgate,Old Dhaka,574.27,completed,2024-03-02
+R0345,Bilal,Mirpur,Wari,309.02,completed,2024-03-29
+R0346,Omar,Dhanmondi,Mirpur,400.03,completed,2024-01-27
+R0347,Hasan,Motijheel,Farmgate,320.69,completed,2024-02-14
+R0348,Nadia,Mohakhali,Banani,476.53,completed,2024-02-10
+R0349,Ayesha,Mirpur,Old Dhaka,285.95,completed,2024-01-19
+R0350,Mariam,Gulshan,Dhanmondi,807.95,cancelled,2024-02-23
+R0351,Imran,Mirpur,Banani,798.99,completed,2024-01-25
+R0352,Faisal,Banani,Old Dhaka,439.45,completed,2024-03-04
+R0353,Bilal,Dhanmondi,Banani,469.19,completed,2024-01-28
+R0354,Karim,Tejgaon,Motijheel,118.92,completed,2024-03-17
+R0355,Khadija,Farmgate,Wari,300.03,completed,2024-01-14
+R0356,Yusuf,Mohakhali,Banani,640.18,completed,2024-02-16
+R0357,Karim,Dhanmondi,Bashundhara,519.12,completed,2024-02-16
+R0358,Fatima,Old Dhaka,Uttara,377.49,completed,2024-03-11
+R0359,Aisha,Uttara,Farmgate,171.48,completed,2024-02-20
+R0360,Layla,Motijheel,Mohakhali,802.99,completed,2024-01-26
+R0361,Bilal,Tejgaon,Old Dhaka,465.06,completed,2024-01-05
+R0362,Khadija,Banani,Mohakhali,479.89,completed,2024-03-18
+R0363,Imran,Old Dhaka,Banani,797.15,completed,2024-01-21
+R0364,Mariam,Mohakhali,Farmgate,537.17,cancelled,2024-03-06
+R0365,Junaid,Old Dhaka,Bashundhara,310.84,completed,2024-02-17
+R0366,Ayesha,Motijheel,Wari,834.52,cancelled,2024-02-09
+R0367,Rahim,Wari,Farmgate,539.62,completed,2024-03-24
+R0368,Salma,Tejgaon,Farmgate,635.48,cancelled,2024-03-02
+R0369,Aisha,Banani,Tejgaon,676.45,completed,2024-01-19
+R0370,Karim,Farmgate,Mirpur,520.88,completed,2024-01-25
+R0371,Imran,Dhanmondi,Old Dhaka,402.46,completed,2024-03-29
+R0372,Faisal,Mirpur,Bashundhara,676.73,completed,2024-01-08
+R0373,Faisal,Wari,Banani,239.65,completed,2024-03-25
+R0374,Bilal,Bashundhara,Tejgaon,321.59,completed,2024-02-28
+R0375,Layla,Old Dhaka,Motijheel,352.8,completed,2024-03-19
+R0376,Salma,Bashundhara,Mirpur,294.83,completed,2024-01-29
+R0377,Tariq,Uttara,Motijheel,611.48,completed,2024-02-10
+R0378,Layla,Bashundhara,Motijheel,798.95,completed,2024-02-06
+R0379,Layla,Gulshan,Farmgate,372.36,completed,2024-02-14
+R0380,Karim,Banani,Motijheel,301.48,completed,2024-02-14
+R0381,Yusuf,Bashundhara,Wari,655.45,completed,2024-01-26
+R0382,Layla,Old Dhaka,Uttara,616.05,completed,2024-01-14
+R0383,Salma,Tejgaon,Farmgate,266.69,cancelled,2024-01-29
+R0384,Karim,Farmgate,Mirpur,157.15,completed,2024-03-01
+R0385,Hasan,Gulshan,Wari,83.99,cancelled,2024-01-21
+R0386,Khadija,Mohakhali,Wari,447.64,completed,2024-02-06
+R0387,Karim,Motijheel,Uttara,779.11,completed,2024-03-24
+R0388,Layla,Tejgaon,Mirpur,648.79,completed,2024-01-23
+R0389,Karim,Mohakhali,Banani,847.82,completed,2024-03-04
+R0390,Karim,Banani,Motijheel,87.14,cancelled,2024-03-18
+R0391,Mariam,Gulshan,Mohakhali,429.85,cancelled,2024-03-08
+R0392,Faisal,Bashundhara,Banani,440.38,completed,2024-01-15
+R0393,Omar,Motijheel,Banani,579.18,completed,2024-01-02
+R0394,Mariam,Wari,Motijheel,517.19,completed,2024-01-23
+R0395,Bilal,Tejgaon,Wari,716.78,cancelled,2024-02-11
+R0396,Ayesha,Gulshan,Bashundhara,222.28,completed,2024-03-02
+R0397,Rahim,Motijheel,Mirpur,280.8,completed,2024-02-27
+R0398,Mariam,Uttara,Mohakhali,528.49,cancelled,2024-01-02
+R0399,Nadia,Uttara,Wari,613.43,completed,2024-03-26
+R0400,Mariam,Gulshan,Old Dhaka,202.98,cancelled,2024-03-31
+R0401,Mariam,Uttara,Gulshan,363.01,completed,2024-01-29
+R0402,Hasan,Banani,Old Dhaka,430.33,cancelled,2024-02-17
+R0403,Khadija,Mohakhali,Tejgaon,663.16,completed,2024-02-01
+R0404,Fatima,Farmgate,Tejgaon,484.64,cancelled,2024-03-31
+R0405,Junaid,Motijheel,Gulshan,166.4,cancelled,2024-03-05
+R0406,Layla,Mirpur,Farmgate,195.39,completed,2024-03-07
+R0407,Tariq,Bashundhara,Gulshan,632.03,completed,2024-01-12
+R0408,Karim,Old Dhaka,Bashundhara,429.14,cancelled,2024-02-23
+R0409,Karim,Bashundhara,Farmgate,510.27,completed,2024-01-03
+R0410,Rahim,Mohakhali,Uttara,654.27,cancelled,2024-01-10
+R0411,Nadia,Dhanmondi,Bashundhara,619.3,cancelled,2024-01-08
+R0412,Karim,Gulshan,Old Dhaka,301.06,completed,2024-01-18
+R0413,Sumaiya,Farmgate,Wari,368.33,completed,2024-02-27
+R0414,Fatima,Mohakhali,Bashundhara,605.7,cancelled,2024-01-18
+R0415,Ayesha,Farmgate,Motijheel,217.42,cancelled,2024-02-20
+R0416,Salma,Old Dhaka,Banani,722.81,completed,2024-02-08
+R0417,Layla,Bashundhara,Wari,406.58,completed,2024-01-30
+R0418,Nadia,Mirpur,Old Dhaka,199.44,completed,2024-01-15
+R0419,Sumaiya,Dhanmondi,Wari,553.49,completed,2024-01-31
+R0420,Ayesha,Mirpur,Gulshan,537.34,completed,2024-03-17
+R0421,Salma,Farmgate,Dhanmondi,650.22,completed,2024-02-26
+R0422,Tariq,Mirpur,Tejgaon,660.88,completed,2024-01-18
+R0423,Salma,Old Dhaka,Uttara,708.16,cancelled,2024-02-10
+R0424,Imran,Tejgaon,Farmgate,262.42,completed,2024-03-25
+R0425,Sumaiya,Old Dhaka,Mirpur,311.39,completed,2024-03-12
+R0426,Sumaiya,Tejgaon,Banani,508.01,completed,2024-02-14
+R0427,Bilal,Farmgate,Wari,685.07,completed,2024-03-30
+R0428,Hasan,Mohakhali,Bashundhara,310.91,completed,2024-03-09
+R0429,Salma,Bashundhara,Mirpur,311.57,completed,2024-02-29
+R0430,Sumaiya,Dhanmondi,Tejgaon,825.2,cancelled,2024-03-08
+R0431,Salma,Banani,Bashundhara,276.35,completed,2024-03-23
+R0432,Nadia,Gulshan,Old Dhaka,151.2,completed,2024-01-07
+R0433,Aisha,Uttara,Bashundhara,544.25,completed,2024-01-25
+R0434,Layla,Tejgaon,Wari,247.1,completed,2024-02-12
+R0435,Tariq,Uttara,Dhanmondi,801.61,completed,2024-03-02
+R0436,Tariq,Mirpur,Farmgate,385.41,completed,2024-03-11
+R0437,Bilal,Motijheel,Uttara,439.01,completed,2024-02-09
+R0438,Faisal,Uttara,Mohakhali,759.77,completed,2024-01-13
+R0439,Imran,Wari,Bashundhara,784.03,completed,2024-02-10
+R0440,Junaid,Mohakhali,Dhanmondi,745.35,completed,2024-01-03
+R0441,Junaid,Uttara,Tejgaon,525.94,completed,2024-02-07
+R0442,Imran,Banani,Uttara,257.11,cancelled,2024-02-01
+R0443,Imran,Bashundhara,Tejgaon,278.14,completed,2024-03-23
+R0444,Omar,Wari,Bashundhara,209.54,completed,2024-01-22
+R0445,Khadija,Banani,Tejgaon,221.72,cancelled,2024-03-23
+R0446,,Dhanmondi,Tejgaon,726.08,completed,2024-03-26
+R0447,Sumaiya,Dhanmondi,Gulshan,185.87,completed,2024-01-09
+R0448,Rahim,Wari,Banani,248.41,completed,2024-02-17
+R0449,Aisha,Dhanmondi,Farmgate,782.82,completed,2024-01-03
+R0450,Layla,Dhanmondi,Tejgaon,396.73,completed,2024-03-08
+R0451,Layla,Wari,Uttara,832.66,completed,2024-03-05
+R0452,Sumaiya,Wari,Farmgate,700.75,completed,2024-01-14
+R0453,Hasan,Gulshan,Tejgaon,265.55,cancelled,2024-03-08
+R0454,Yusuf,Uttara,Mohakhali,692.1,completed,2024-02-17
+R0455,Junaid,Mohakhali,Old Dhaka,267.27,completed,2024-02-08
+R0456,Karim,Farmgate,Gulshan,152.0,completed,2024-02-18
+R0457,Karim,Old Dhaka,Bashundhara,570.3,completed,2024-01-11
+R0458,Imran,Bashundhara,Mohakhali,515.71,completed,2024-03-08
+R0459,Tariq,Dhanmondi,Uttara,773.98,cancelled,2024-03-01
+R0460,Fatima,Uttara,Dhanmondi,607.01,completed,2024-03-10
+R0461,Karim,Tejgaon,Wari,218.1,completed,2024-01-03
+R0462,Hasan,Mirpur,Farmgate,659.24,completed,2024-01-10
+R0463,Junaid,Uttara,Banani,265.16,completed,2024-03-27
+R0464,Bilal,Old Dhaka,Motijheel,661.82,completed,2024-03-29
+R0465,Faisal,Wari,Gulshan,654.0,completed,2024-01-07
+R0466,Salma,Gulshan,Bashundhara,725.78,completed,2024-03-18
+R0467,Bilal,Tejgaon,Farmgate,826.07,completed,2024-01-04
+R0468,Omar,Farmgate,Uttara,457.76,completed,2024-03-11
+R0469,Zainab,Mohakhali,Bashundhara,603.37,completed,2024-01-11
+R0470,Salma,Tejgaon,Uttara,629.09,completed,2024-02-04
+R0471,Hasan,Banani,Bashundhara,649.53,completed,2024-02-16
+R0472,Rahim,Gulshan,Banani,806.08,completed,2024-02-16
+R0473,Hasan,Uttara,Gulshan,147.22,completed,2024-02-27
+R0474,Faisal,Old Dhaka,Tejgaon,394.19,completed,2024-01-12
+R0475,Fatima,Motijheel,Tejgaon,539.63,completed,2024-02-19
+R0476,Sumaiya,Dhanmondi,Motijheel,378.61,completed,2024-03-12
+R0477,Faisal,Mirpur,Farmgate,210.58,completed,2024-01-22
+R0478,Mariam,Banani,Motijheel,286.67,completed,2024-01-09
+R0479,Yusuf,Banani,Bashundhara,404.25,completed,2024-01-10
+R0480,Salma,Motijheel,Uttara,635.09,completed,2024-03-17
+R0481,Omar,Tejgaon,Mirpur,162.37,completed,2024-01-01
+R0482,Aisha,Mohakhali,Motijheel,372.52,completed,2024-02-26
+R0483,Aisha,Motijheel,Bashundhara,184.82,completed,2024-03-18
+R0484,Khadija,Wari,Mirpur,321.92,completed,2024-02-10
+R0485,Khadija,Uttara,Wari,825.18,completed,2024-02-11
+R0486,Bilal,Mohakhali,Uttara,361.06,cancelled,2024-01-26
+R0487,Zainab,Tejgaon,Old Dhaka,604.92,cancelled,2024-01-04
+R0488,Tariq,Wari,Bashundhara,417.61,completed,2024-03-29
+R0489,Khadija,Gulshan,Bashundhara,187.17,completed,2024-01-31
+R0490,Hasan,Uttara,Wari,630.73,completed,2024-01-10
+R0491,Khadija,Bashundhara,Farmgate,528.33,cancelled,2024-03-05
+R0492,Layla,Wari,Mohakhali,108.31,completed,2024-03-30
+R0493,Fatima,Old Dhaka,Farmgate,164.21,completed,2024-03-25
+R0494,Zainab,Farmgate,Motijheel,578.19,completed,2024-03-13
+R0495,Bilal,Farmgate,Wari,824.44,completed,2024-02-25
+R0496,Ayesha,Gulshan,Dhanmondi,279.23,cancelled,2024-03-07
+R0497,Junaid,Old Dhaka,Farmgate,250.19,completed,2024-02-20
+R0498,Junaid,Bashundhara,Wari,611.64,completed,2024-02-14
+R0499,Ayesha,Dhanmondi,Old Dhaka,307.48,completed,2024-01-15
+R0500,Nadia,Wari,Banani,320.16,completed,2024-01-27

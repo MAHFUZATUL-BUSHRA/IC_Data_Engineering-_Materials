@@ -1,0 +1,7 @@
+# Session 9 — SQL Core Concepts (DuckDB)
+# DuckDB pinned for reproducibility; pandas kept flexible so it won't
+# disturb the version already installed from the Spark sessions.
+
+duckdb==1.5.3
+pandas>=2.2
+jupyterlab>=4.0

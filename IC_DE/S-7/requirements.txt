@@ -1,0 +1,8 @@
+# Session 7 — Data Validation & Quality Checks
+# Verified working on Python 3.11 and 3.12
+
+great-expectations==1.17.2
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.10.8
+jupyter

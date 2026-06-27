@@ -1,0 +1,7 @@
+# Session 8 — Working with Data Formats
+# Verified on Python 3.12
+
+pandas==2.2.3
+pyarrow==17.0.0
+matplotlib==3.10.8
+jupyter

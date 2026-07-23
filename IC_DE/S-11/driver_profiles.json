@@ -1,0 +1,282 @@
+[
+  {
+    "driver_id": 1,
+    "name": "Deniz Yilmaz",
+    "home_city": "Izmir",
+    "service_cities": [
+      "Izmir",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "extra_luggage",
+      "pet_friendly"
+    ],
+    "recent_ratings": [
+      3.3,
+      3.8,
+      4.1,
+      3.4,
+      3.3
+    ]
+  },
+  {
+    "driver_id": 2,
+    "name": "Kerem Ozkan",
+    "home_city": "Istanbul",
+    "service_cities": [
+      "Istanbul",
+      "Bursa"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "pet_friendly"
+    ],
+    "recent_ratings": [
+      3.1,
+      3.6,
+      3.9,
+      3.6
+    ]
+  },
+  {
+    "driver_id": 3,
+    "name": "Yusuf Ozturk",
+    "home_city": "Ankara",
+    "service_cities": [
+      "Ankara",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "child_seat",
+      "extra_luggage",
+      "pet_friendly"
+    ],
+    "recent_ratings": [
+      3.6,
+      3.1,
+      3.4
+    ]
+  },
+  {
+    "driver_id": 4,
+    "name": "Cem Ozkan",
+    "home_city": "Bursa",
+    "service_cities": [
+      "Bursa",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "card_payment",
+      "pet_friendly",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.4,
+      4.0,
+      3.9,
+      4.5,
+      4.4
+    ]
+  },
+  {
+    "driver_id": 5,
+    "name": "Ahmet Yildiz",
+    "home_city": "Bursa",
+    "service_cities": [
+      "Bursa",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "child_seat",
+      "extra_luggage",
+      "pet_friendly"
+    ],
+    "recent_ratings": [
+      3.7,
+      4.1,
+      3.6,
+      3.4
+    ]
+  },
+  {
+    "driver_id": 6,
+    "name": "Elif Sahin",
+    "home_city": "Istanbul",
+    "service_cities": [
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "card_payment",
+      "child_seat",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.4,
+      4.2,
+      3.8,
+      4.5
+    ]
+  },
+  {
+    "driver_id": 7,
+    "name": "Zeynep Polat",
+    "home_city": "Izmir",
+    "service_cities": [
+      "Izmir"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "card_payment",
+      "child_seat",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.4,
+      5.0,
+      4.1,
+      4.6
+    ]
+  },
+  {
+    "driver_id": 8,
+    "name": "Melis Sahin",
+    "home_city": "Bursa",
+    "service_cities": [
+      "Bursa",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "card_payment",
+      "child_seat",
+      "extra_luggage",
+      "pet_friendly"
+    ],
+    "recent_ratings": [
+      3.5,
+      3.5,
+      3.7,
+      4.1
+    ]
+  },
+  {
+    "driver_id": 9,
+    "name": "Damla Kilic",
+    "home_city": "Antalya",
+    "service_cities": [
+      "Antalya"
+    ],
+    "vehicle_tags": [
+      "card_payment",
+      "extra_luggage"
+    ],
+    "recent_ratings": [
+      3.7,
+      3.8,
+      3.5,
+      3.8,
+      4.0
+    ]
+  },
+  {
+    "driver_id": 10,
+    "name": "Selim Arslan",
+    "home_city": "Istanbul",
+    "service_cities": [
+      "Istanbul",
+      "Bursa"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "card_payment",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.3,
+      5.0,
+      4.3,
+      4.4
+    ]
+  },
+  {
+    "driver_id": 11,
+    "name": "Merve Ozdemir",
+    "home_city": "Bursa",
+    "service_cities": [
+      "Bursa",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "child_seat",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.0,
+      4.4,
+      4.3,
+      4.4
+    ]
+  },
+  {
+    "driver_id": 12,
+    "name": "Aylin Kilic",
+    "home_city": "Ankara",
+    "service_cities": [
+      "Ankara",
+      "Istanbul"
+    ],
+    "vehicle_tags": [
+      "child_seat",
+      "extra_luggage",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.1,
+      4.2,
+      4.7
+    ]
+  },
+  {
+    "driver_id": 13,
+    "name": "Burak Polat",
+    "home_city": "Ankara",
+    "service_cities": [
+      "Ankara"
+    ],
+    "vehicle_tags": [
+      "card_payment",
+      "pet_friendly",
+      "wifi"
+    ],
+    "recent_ratings": [
+      3.3,
+      3.7,
+      3.7,
+      3.9
+    ]
+  },
+  {
+    "driver_id": 14,
+    "name": "Buse Aslan",
+    "home_city": "Izmir",
+    "service_cities": [
+      "Izmir"
+    ],
+    "vehicle_tags": [
+      "AC",
+      "extra_luggage",
+      "pet_friendly",
+      "wifi"
+    ],
+    "recent_ratings": [
+      4.7,
+      4.3,
+      4.3,
+      4.0,
+      4.5
+    ]
+  }
+]

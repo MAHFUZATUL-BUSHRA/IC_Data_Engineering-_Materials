@@ -1,0 +1,16 @@
+# Modern Data Engineering — Session 11: Advanced SQL Patterns
+# Python 3.12  (same stack as the Week 5 SQL sessions)
+#
+#   python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
+#   pip install -r requirements.txt
+#   jupyter lab
+#
+# Place this file next to Session_11_Advanced_SQL_Patterns.ipynb and the data/ folder.
+
+duckdb==1.5.4          # in-process SQL engine — reads the CSVs and driver_profiles.json directly
+jupyterlab>=4.0        # to open and run the notebook
+ipykernel>=6.29        # Jupyter kernel
+
+# Not required: the notebook shows results as DuckDB relations (so NULLs display correctly),
+# so pandas is NOT needed to run it. Uncomment only if you want DataFrame output in your own answers.
+# pandas==2.2.3
